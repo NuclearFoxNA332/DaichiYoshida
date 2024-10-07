@@ -1,4 +1,4 @@
-# Singer Template
+# Даичи Йосида
 [English](README.md) | [Русский](README.ru.md)
 
 ![Avatar](/IMG_20241006_011003_898.jpg)
