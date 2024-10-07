@@ -1,7 +1,7 @@
 # Singer Template
 [English](README.md) | [Русский](README.ru.md)
 
-![Avatar](/image.png)
+![Avatar](/IMG_20241006_011003_898.jpg)
 
 12 years old singer. cute and high voice. Voice bank has an errors but it's not that bad. 
 
