@@ -3,8 +3,6 @@
 
 ![Avatar](/IMG_20241006_011003_898.jpg)
 
-Хороший пример: [Awata Weak](https://github.com/hhskt/Awata_Weak)
-
 12и летний певец с высоким и милым голосом. его голосовые банки имеют проблемы но в любом случае не так плохо. 
 
 ## Основная информация
@@ -28,7 +26,6 @@
 - Языки: Японский
 
 ## Видео
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
+[![Watch the video](https://youtu.be/Z4caXSR20YA?si=fVPNzxS_Cr07jrL6) 
+[![Watch the video](https://youtu.be/S9ZWAzMP-IA?si=7o8icymsALAoYBhf) 
+[![Watch the video](https://youtu.be/ZESd8Cv30aI?si=Hcad28t7YDe5FuEg) 
