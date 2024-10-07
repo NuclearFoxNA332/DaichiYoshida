@@ -25,7 +25,6 @@ JPN
 - Languages: Japanese
 
 ## Videos
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/StlZnXhwnk4)
-[![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
+[![Watch the video](https://youtu.be/Z4caXSR20YA?si=fVPNzxS_Cr07jrL6) 
+[![Watch the video](https://youtu.be/S9ZWAzMP-IA?si=7o8icymsALAoYBhf) 
+[![Watch the video](https://youtu.be/ZESd8Cv30aI?si=Hcad28t7YDe5FuEg) 
