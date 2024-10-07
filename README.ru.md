@@ -1,31 +1,31 @@
 # Singer Template
 [English](README.md) | [Русский](README.ru.md)
 
-![Avatar](/image.png)
+![Avatar](/IMG_20241006_011003_898.jpg)
 
 Хороший пример: [Awata Weak](https://github.com/hhskt/Awata_Weak)
 
-Какое-то описание на русском
+12и летний певец с высоким и милым голосом. его голосовые банки имеют проблемы но в любом случае не так плохо. 
 
 ## Основная информация
-- Пол: тест
-- Рост: 111м
-- Вес: 222г
-- Возраст: 33
+- Пол: Мужской
+- Рост: 168м
+- Вес: 67г
+- Возраст: 12
 
 ## Группы
 - testgroup1
 - testgroup2
 
 ## First test bank
-Описание 1
-- Тип: Diffsinger
-- Языки: Русский, Японский
+Рус войсбанк
+- Тип: UTAU
+- Языки: Русский
 
 ## Second test bank
-Описание 2
+Яп войсбанк
 - Тип: UTAU
-- Языки: Английский
+- Языки: Японский
 
 ## Видео
 [![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
