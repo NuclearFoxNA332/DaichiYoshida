@@ -3,28 +3,26 @@
 
 ![Avatar](/image.png)
 
-Good example: [Awata Weak](https://github.com/hhskt/Awata_Weak)
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+12 years old singer. cute and high voice. Voice bank has an errors but it's not that bad. 
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Male
+- Height: 168m
+- Weight: 67g
+- Age: 12
 
 ## Groups
 - [testgroup](https://github.com/ViSingers/group-template)
 
 ## First test bank
-Test description 1
-- Type: Diffsinger
-- Languages: Russian, Japanese
+Russian voicebank
+- Type: Utau
+- Languages: Russian
 
 ## Second test bank
-Test description 2
+JPN
 - Type: UTAU
-- Languages: English
+- Languages: Japanese
 
 ## Videos
 [![Watch the video](https://img.youtube.com/vi/k4T8HeK-ZIg/mqdefault.jpg)](https://youtu.be/k4T8HeK-ZIg)
