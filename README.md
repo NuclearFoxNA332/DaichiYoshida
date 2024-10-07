@@ -14,12 +14,12 @@
 ## Groups
 - [testgroup](https://github.com/ViSingers/group-template)
 
-## First test bank
+## First test bank [!Download](https://github.com/NuclearFoxNA332/DaichiYoshida/releases/download/dv_1.0/Daichi.CVC.RUS.zip) 
 Russian voicebank
 - Type: Utau
 - Languages: Russian
 
-## Second test bank
+## Second test bank  !work in progress! 
 JPN
 - Type: UTAU
 - Languages: Japanese
