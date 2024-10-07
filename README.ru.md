@@ -17,12 +17,12 @@
 - testgroup1
 - testgroup2
 
-## First test bank
+## First test bank [!Download](https://github.com/NuclearFoxNA332/DaichiYoshida/releases/download/dv_1.0/Daichi.CVC.RUS.zip) 
 Рус войсбанк
 - Тип: UTAU
 - Языки: Русский
 
-## Second test bank
+## Second test bank   !Работаю над ним! 
 Яп войсбанк
 - Тип: UTAU
 - Языки: Японский
