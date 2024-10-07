@@ -17,7 +17,7 @@
 - testgroup1
 - testgroup2
 
-## First test bank [!Download](https://github.com/NuclearFoxNA332/DaichiYoshida/releases/download/dv_1.0/Daichi.CVC.RUS.zip) 
+## Daichi voicebank[!Download](https://github.com/NuclearFoxNA332/DaichiYoshida/releases/download/dv_1.0/Daichi.CVC.RUS.zip) 
 Рус войсбанк
 - Тип: UTAU
 - Языки: Русский
